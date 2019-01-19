@@ -1,0 +1,29 @@
+.display-4{
+    font-family:'Alfa Slab One','cursive'
+}
+.col-lg-4{
+    font-family:'Alfa Slab One', 'cursive';
+    padding:5px;   
+}
+.col-lg-12{
+    padding:5px;
+}
+.btn{
+padding:50px;
+}
+body{
+background:white;
+}
+.jumbotron{
+    background-color: white;
+    text-align: center;
+    padding-bottom:0px;
+    padding-top: 10px;
+}
+#submit{
+    padding:10px;
+
+}
+#id{
+    padding:10px;
+}
